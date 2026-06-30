@@ -1,0 +1,992 @@
+[
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAlthough she had previously spoken in fantasies and dream sequences, Maggie's first word spoken in the normal continuity of the series occurred in \"Lisa's First Word\", when she was voiced by Elizabeth Taylor.\n\nSimplified version:",
+    "chosen": "The first time Maggie spoke was in \"Lisa's First Word.\"",
+    "rejected": "Although she had spoken in fantasy and dream sequences before, Maggie's first word spoken in the normal continuity of the series was also in \"Lisa's First Word\" after she was spoken by Elizabeth Taylor."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nOn September 17, 2004, Whedon announced on the movie's official website that shooting had been completed.\n\nSimplified version:",
+    "chosen": "Whedon posted on the movie's website that filming was done on 9/17/2004.",
+    "rejected": "On September 17, 2004, Whedon confirmed on the official website of the film that the shooting was already completed."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nUses Tar was also used as seal for roofing shingles and to seal the hulls of ships and boats.\n\nSimplified version:",
+    "chosen": "Tar was also used to seal things.",
+    "rejected": "Uses Tar was used as a seal for roofing shingles and for sealing the hulls of ships and boats."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe staff has since expanded to more than thirty people and two continents with an office in Lahore, Pakistan.\n\nSimplified version:",
+    "chosen": "The staff has grown to more than thirty people and spread to two continents. There is an office in Lahore, Pakistan.",
+    "rejected": "Since then, the staff has expanded to more than thirty people and two continents with offices in Lahore, Pakistan."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDavid William Donald Cameron (born 9 October 1966) is the leader of the Conservative Party and Leader of Her Majesty's Loyal Opposition in the United Kingdom.\n\nSimplified version:",
+    "chosen": "David William Donald Cameron was born 9 October 1966. He is the leader of the Conservative Party. He is also Leader of Her Majesty's Loyal Opposition in the United Kingdom.",
+    "rejected": "David William Donald Cameron, who was born on 9th October, 1966, is the leader of the Conservative Party and Leader of Her Majesty's Loyal Opposition in the United Kingdom"
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWhen no one showed any interest, Cave took on the task by himself.\n\nSimplified version:",
+    "chosen": "When no one showed interest, Cave did it himself.",
+    "rejected": "Cave took over the task by himself when no one showed any interest."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is the largest known non-spherical moon in the solar system.\n\nSimplified version:",
+    "chosen": "It is the largest known moon in the solar system that is not a sphere.",
+    "rejected": "It is the solar system's largest known non-spherical moon."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBenjamin Jeremy \"Ben\" Stein (born November 25, 1944) is an American actor, writer, and commentator on political and economic issues.\n\nSimplified version:",
+    "chosen": "Benjamin Jeremy \"Ben\" Stein was born on November 25, 1944. He is an American actor, writer, and commentator on political and economic issues.",
+    "rejected": "American actor, writer and political/economic commentator, Benjamin Jeremy \"Ben\" Stein was born 11/25/1944."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSome of the technologies have been adapted to social networking services and ISPs.\n\nSimplified version:",
+    "chosen": "The technologies were used in social networking and ISPs.",
+    "rejected": "Some of the technologies have been used by social networking services and internet providers."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHe has also recorded five albums as a solo artist, debuting with Leading Off in 1994.\n\nSimplified version:",
+    "chosen": "He recorded five albums as a solo artist. His first one was \"Leading Off\" in 1994.",
+    "rejected": "He also recorded five albums as a solo artist, debuting with Leading Off in 1994."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn Augustan Rome, Quirinus was also an epithet of Janus, as Janus Quirinus.\n\nSimplified version:",
+    "chosen": "Quirinus was another name used for Janus.",
+    "rejected": "In Augustan Rome, Quirinus was an adjective describing Janus."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDo not excuse what you did with what others did.\n\nSimplified version:",
+    "chosen": "Don't excuse what you've done to others.",
+    "rejected": "Do not use the actions of others to justify your own actions."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe PKCS # 1 standard also incorporates processing schemes designed to provide additional security for RSA signatures, e. g., the Probabilistic Signature Scheme for RSA (RSA-PSS).\n\nSimplified version:",
+    "chosen": "The PKCS # 1 standard also has processing schemes made to give extra security for RSA signatures. An example is the Probabilistic Signature Scheme for RSA (RSA-PSS).",
+    "rejected": "The PKCS #1 standard includes processing schemes designed to provide additional security for RSA signatures."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSince Poland's accession to the European Union, a significant number of Poles have emigrated to Western European countries such as the United Kingdom, Germany and Ireland in search of work.\n\nSimplified version:",
+    "chosen": "Since Poland joined the European Union, a large number of Poles moved to Western European countries such as the United Kingdom, Germany and Ireland. They moved there to look for work.",
+    "rejected": "A considerable number of Poles have emigrated to Western European countries such as the United Kingdom, Germany and Ireland in search of work since Poland's accession to the European Union."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe surname Christian is an Anglicization of the Manx name McCrystyn.\n\nSimplified version:",
+    "chosen": "The name Christian is an Anglicized form of the Manx name McCrystyn.",
+    "rejected": "The family name Christian is an Anglicization of the Celtic name McCrystyn."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThis took the republic by surprise, especially because the SPD was below 25% in polls at the time.\n\nSimplified version:",
+    "chosen": "This took the republic by surprise. The SPD was below 25% in polls at the time.",
+    "rejected": "This was a surprise to the republic especially because the SPD was below 25% in polls at the time."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt accelerated northeast parallel to the East Coast and became extratropical on July 23 near Nova Scotia.\n\nSimplified version:",
+    "chosen": "It gained speed northeast along the East Coast. It became extratropical on July 23 near Nova Scotia.",
+    "rejected": "It accelerated northeast parallel to the East Coast and became extratropical on 23 July near Nova Scotia."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHe is called Saint James the Greater to distinguish him from James, son of Alphaeus, who is also known as James the Less.\n\nSimplified version:",
+    "chosen": "He is called Saint James the Greater.",
+    "rejected": "He is called Saint James the Greater to differentiate him from James, son of Alphaeus, who is known as James the Less."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn mathematics, a Riemann sum is a method for approximating the total area underneath a curve on a graph, otherwise known as an integral.\n\nSimplified version:",
+    "chosen": "In math, a Riemann sum is a way to estimate the total area under a curve on a graph. It is also known as an integral.",
+    "rejected": "In mathematics, a Riemann sum is a method for estimating the area beneath a curve on a graph, also called an integral."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBonham Carter made her film debut in the K. M. Peyton film, A Pattern of Roses, before appearing in her first leading role in Lady Jane.\n\nSimplified version:",
+    "chosen": "Bonham Carter played her first role in the K. M. Peyton film, A Pattern of Roses. Than she played her first leading role in Lady Jane.",
+    "rejected": "Bonham Carter debuted in the film A Pattern of Roses, then appeared for the first time as the lead in Lady Jane."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDrammen is also the main harbor for car and fruit import in Norway.\n\nSimplified version:",
+    "chosen": "Drammen is the main port for car and fruit shipping in Norway.",
+    "rejected": "Drammen is also Norway's main harbor for receiving car and fruit imports."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Administrators of the Northern Territory and Norfolk Island are, by contrast, appointed by the Governor-General.\n\nSimplified version:",
+    "chosen": "Instead the leaders of the Northern Territory and Norfolk Island are chosen by the Governor-General.",
+    "rejected": "The Governor-General appoints Administrators of the Northern Territory and Norfolk Island."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFreetown is home to Fourah Bay College, the oldest university in West Africa, founded in 1827.\n\nSimplified version:",
+    "chosen": "Freetown is home to Fourah Bay College. It is the oldest university in West Africa. It was founded in 1827.",
+    "rejected": "Fourah Bay College in Freetown, founded in 1827, is the oldest university in West Africa."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSportswear (or Active attire) is clothing, including footwear, worn for sport or exercise.\n\nSimplified version:",
+    "chosen": "Sportswear is clothing worn for sports.",
+    "rejected": "Sportswear or Active attire is clothing (which includes footwear) worn for sport or exercise."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFurthermore it is the episcopal see of the Diocese of V\u00e4xj\u00f6.\n\nSimplified version:",
+    "chosen": "It is the episcopal. See of the Diocese of V\u00e4xj\u00f6.",
+    "rejected": "It is the area of jurisdiction for the Diocese of V\u00e4xj\u00f6."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBackground DES uses a 56 - bit key, meaning that there are 256 possible keys under which a message can be encrypted.\n\nSimplified version:",
+    "chosen": "DES uses a 56 bit key.  This means it is possible for a message can be encrypted under 256 keys.",
+    "rejected": "Background DES uses a 56 - bit key that 256 possible keys are under, which messages can be encrypted."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHonduras (,) is a republic in Central America.\n\nSimplified version:",
+    "chosen": "Honduras is a country in Central America.",
+    "rejected": "Honduras is Central America's republic."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nTwo tubes of amphetamines and a further empty tube were found in the rear pocket of his racing jersey.\n\nSimplified version:",
+    "chosen": "Two tubes of drugs and a third empty tube were found in his back pocket.",
+    "rejected": "2 amphetamine tubes and yet another empty tube were found in his racing jersey's rear pocket."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Arkansas River is a major tributary of the Mississippi River.\n\nSimplified version:",
+    "chosen": "The Arkansas River makes up the big part of the Mississippi River.",
+    "rejected": "The Arkansas River is an important tributary of the Mississippi River."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nMetarterioles provide direct communication between arterioles and venules and are important in bypassing the bloodflow through the capillaries.\n\nSimplified version:",
+    "chosen": "Metarterioles is the connection between arterioles and venules. They are important to go around the blood flow.",
+    "rejected": "Metarterioles provide communication between arterioles and venules and important in bypassing blood flow."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nEventually, this also expanded the realm of \"Just Say No\" to violence, premarital sex, and any other \"vices\" that young people might try.\n\nSimplified version:",
+    "chosen": "Just Say No expanded to mean other vices young people might do. These could be premarital sex and violence.",
+    "rejected": "Eventually, this also expanded \"Just Say No\" to violence, premarital sex, and other \"vices\" young people try."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAnnaser Benghazi is a Libyan football club based in Benghazi, Libya.\n\nSimplified version:",
+    "chosen": "Annaser Benghazi is a football club. It is based in Benghazi, Libya.",
+    "rejected": "Annaser Benghazi is a Libyan football club from Benghazi, Libya."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nYear-Round School is the scheduling of educational institutions so that students take class throughout the entire calendar year.\n\nSimplified version:",
+    "chosen": "Year-Round School is when students take class through the entire year.",
+    "rejected": "Year-Round School is the scheduling of educational institutions so that students take class all year."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is the established convention of the scientific community to define the vitreous electrification as positive, and the resinous electrification as negative.\n\nSimplified version:",
+    "chosen": "It is normal for scientists to call the vitreous electrification positive, and the resinous electrification negative.",
+    "rejected": "The scientific community defines the vitreous electrification as positive, and the resinous electrification as negative."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nPower transmission is the movement of energy from its place of generation to a location where it is applied to performing useful work.\n\nSimplified version:",
+    "chosen": "Power transmission is when energy moves to a location where it is used to do work.",
+    "rejected": "Power transmission is the movement of energy from its place of generation to a place where it is applied to performing work."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBefore the 2002 election FC Bayern General Manager Uli Hoene\u00df expressed his support for Stoiber and the CSU.\n\nSimplified version:",
+    "chosen": "In 2002, FC Bayern Manager \"Uli Hoene\u00df\" showed support for Stoiber and CSU.",
+    "rejected": "Before the 2002 election, FC Bayern General Manager Uli Hoene\u00df supported Stoiber and the CSU."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nMales can weigh more than 20 kg and attain a head-body length of 90 cm.\n\nSimplified version:",
+    "chosen": "Men can be heavier than 20 kg. Their length can be up to 90 cm.",
+    "rejected": "Males can weigh over 20 kg and reach a length of 90 cm, including head and body."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nA. I. Artificial Intelligence One Kubrick project was eventually completed by another director, Steven Spielberg.\n\nSimplified version:",
+    "chosen": "Steven Spielberg completed A.I..",
+    "rejected": "A. I. Artificial Intelligence One Kubrick project has been finally completed by another director, Steven Spielberg."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBetween rounds there is a one minute pause, during which competitors change their gear.\n\nSimplified version:",
+    "chosen": "Between rounds, there is a one-minute pause. At this time, competitors change their gear.",
+    "rejected": "Between rounds there is a one minute pause and competitors are allowed to change their gear."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThis work was accomplished through the efforts of Martin Evans and Oliver Smithies working on the knockout mice.\n\nSimplified version:",
+    "chosen": "Martin Evans and Oliver Smithies worked on the knockout mice.",
+    "rejected": "This was accomplished by Martin Evans and Oliver Smithies working together on the knockout mice."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWith little warning, a second earthquake of magnitude 5.1 May 18 triggered a massive collapse of the north face of the mountain.\n\nSimplified version:",
+    "chosen": "A 2nd earthquake size of\u00a0 5.1 on\u00a0May 18 set off\u00a0\u00a0with little warning, a huge fall down\u00a0\u00a0of the mountain's north face.",
+    "rejected": "On May 18,  with little warning, a second earthquake of magnitude caused a massive collapse of the north face of the mountain."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is a commonly stolen street sign.\n\nSimplified version:",
+    "chosen": "that road sign gets taken a lot.",
+    "rejected": "It is stolen frequently."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Association pour la taxation des transactions financi\u00e8res pour l'aide aux citoyens (Association for the Taxation of Financial Transactions for the Aid of Citizens, ATTAC) is an activist organization for the establishment of a tax on foreign exchange transactions.\n\nSimplified version:",
+    "chosen": "The company ATTAC is a group that makes sure there is tax on other countries sales.",
+    "rejected": "he Association pour la taxation des transactions financi\u00e8res pour l'aide aux citoyens (Association for the Taxation of Financial Transactions for the Aid of Citizens, ATTAC) is an activist organization for the creation of a tax on foreign exchange transactions."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nCash is another commodity that may be packaged together with contracts and / or draft picks to complete a trade.\n\nSimplified version:",
+    "chosen": "Cash can be put with contracts and / or draft picks to make a trade.",
+    "rejected": "Cash is another value that may be packaged together with contracts and / or draft picks to complete a trade."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThey are a type of reporter gene used in laboratory microbiology, molecular biology, and genetic engineering to indicate the success of a transfection or other procedure meant to introduce foreign DNA into a cell.\n\nSimplified version:",
+    "chosen": "They are a type of reporter gene used to indicate the success of a procedure meant to introduce foreign DNA into a cell.",
+    "rejected": "They were a type of reporter gene used for the laboratory microbiology, molecular biology, and genetic engineering to indicate the success of a transfection or other procedure for the introduction of foreign DNA into a cell."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSthenurine forelimbs were long with two extra-long fingers and claws compared with the relatively small, stiff arms of modern macropods.\n\nSimplified version:",
+    "chosen": "Sthenurine front limbs were long with two long fingers and claws.",
+    "rejected": "Stenurine forelimbs have been long with two extra-long fingers and claws compared to the relatively small, stiff arms of modern macropods."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThis resulted in a vest with vertical stripes of white and navy-blue color.\n\nSimplified version:",
+    "chosen": "The vest ended up having vertical stripes. The stripes were white and navy-blue.",
+    "rejected": "This created a vest with vertical stripes of white and navy-blue color."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nLater Wales withdrew his support and asked for Essjay's resignation from his positions with Wikipedia and Wikia.\n\nSimplified version:",
+    "chosen": "Later Wales took away his support. He asked Essjay to leave his positions with Wikipedia and Wikia.",
+    "rejected": "Later Wales wanted to withdraw his support and requested Essjay's dismissal from his position with Wikipedia and Wikia."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Odyssey is an ancient Greek epic poem attributed to Homer.\n\nSimplified version:",
+    "chosen": "The Odyssey is a Greek epic. It is thought that Homer was the author.",
+    "rejected": "The Odyssey is an ancient Greek epic poem by Homer."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn early 2003, she released her fourth album titled, \"To Be Continued...\" which was also met with commercial success.\n\nSimplified version:",
+    "chosen": "In 2003, she released her album \"To Be Continued...\" It sold well.",
+    "rejected": "In early 2003, she released her fourth album titled, \"To Be Continued...\" which was commercially successful."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nOn 28 March 1941, Woolf committed suicide.\n\nSimplified version:",
+    "chosen": "Woolf killed herself in 1941.",
+    "rejected": "Woolf committed suicide on March 28, 1941."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nEureka is a city in Woodford County, Illinois, United States.\n\nSimplified version:",
+    "chosen": "Woodford County, Illinois has a city named Eureka. It is in the U.S.",
+    "rejected": "Eureka is in Woodford County, Illinois."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe school icon is an eagle symbolizing courage and determination.\n\nSimplified version:",
+    "chosen": "The eagle is the symbol of the school.",
+    "rejected": "The mascot is an eagle symbolizing courage and determination."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nEmmen is a municipality and a town in the northeastern Netherlands.\n\nSimplified version:",
+    "chosen": "Emmen is a town in the Netherlands.",
+    "rejected": "Emmen is a municipality in the northeastern Netherlands."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBorken is a Kreis (district) in the northwestern part of North Rhine-Westphalia, Germany in the Region M\u00fcnsterland.\n\nSimplified version:",
+    "chosen": "Borken is a Kreis district in Germany.",
+    "rejected": "Borken, a Kries (district), is located in northwest North Rhine-Westphallia Germany in the Munsterlan region."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nOne foam-rubber process has been coined as Foamation by Will Vinton.\n\nSimplified version:",
+    "chosen": "One foam-rubber process is Foamation. This was named by Will Vinton.",
+    "rejected": "Foamation is foam-rubber invented by Will Vinton."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSouth India is the area encompassing India's states of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu as well as the union territories of Lakshadweep and Pondicherry, occupying 19.31% of area.\n\nSimplified version:",
+    "chosen": "South India is composed of the states of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu. It also includes the union territories of Lakshadweep and Pondicherry, which make up 19.31% of the area.",
+    "rejected": "India's states of Andhra Pradesh, Karnataka, Kerala and Tamil Nadu as well as the union territories of Lakshadweep and Pondicherry, are all surrounded by South India."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is found only on Christmas Island, Australia.\n\nSimplified version:",
+    "chosen": "It is only found on Christmas Island.",
+    "rejected": "It only exists on Christmas Island, Australia."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThey are most often cyclonic, that is, associated with a localized low-pressure region within a severe thunderstorm.\n\nSimplified version:",
+    "chosen": "They are most often cyclonic. This means they are part of a low-pressure area within a severe thunderstorm.",
+    "rejected": "They are usually associated with a contained low-pressure region inside a heavy thunderstorm."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nNordraak died in 1866, and Grieg composed a funeral march in his honor.\n\nSimplified version:",
+    "chosen": "Nordraak died in 1866. Grieg composed a funeral march in his honor.",
+    "rejected": "Nordraak died in 1866, and Greg put together a funeral march in his honor."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAnother of Groundwater's short stories has been adapted into a live theater performance.\n\nSimplified version:",
+    "chosen": "One of Groundwater's short stories has been turned into a play.",
+    "rejected": "Another Groundwater's short story became a theater performance."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBefore 1,000 Hours was released, the band dropped the name Sweet Children, according to Livermore this was done in order to avoid confusion with another local band Sweet Baby.\n\nSimplified version:",
+    "chosen": "Another local band was named Sweet Baby. So they dropped the name Sweet Children and then released 1,000 hours.",
+    "rejected": "Per Livermore, getting rid of the name \"Sweet Children\" before the release of the album 1,000 Hours was to avoid confusion with another local band called Sweet Baby."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWriting After Universal Studios acquired the movie rights to Firefly from Fox, Whedon began writing the screenplay.\n\nSimplified version:",
+    "chosen": "Universal Studios got the movie rights to Firefly from Fox.  Whedon then began writing the screenplay.",
+    "rejected": "Whedon began writing the screenplay after Universal Studios acquired the movie rights to Firefly from Fox."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nBefore the dominance of recorded music, concerts would be the only opportunity one would generally have to hear musicians play.\n\nSimplified version:",
+    "chosen": "Before the recorded music, concerts was the only way to hear musicians play.",
+    "rejected": "Before recorded music, concerts were generally the only opportunity to hear musicians play."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn remembrance of the old tradition, the Axel Springer press company erected its German headquarters at Kochstra\u00dfe again, right next to the Berlin Wall.\n\nSimplified version:",
+    "chosen": "the Axel Springer press company erected its German headquarters at Kochstra\u00dfe. This is beside the Berlin Wall. It was in remembrance of the old tradition.",
+    "rejected": "In memory of the old tradition, the press company Axel Springer has again erected its German headquarters in Kochstra\u00dfe, right next to the Berlin Wall."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThis arises when a pawn uses its initial-move option to advance two squares instead of one, and in so doing passes over a square that is attacked by an enemy pawn.\n\nSimplified version:",
+    "chosen": "A pawn can move two square up as an initial move. This happens when a pawn does this and help its pass over a square that is attacked by an enemy pawn.",
+    "rejected": "This arises when a pawn uses its first -move option to move two squares instead of one, and in so doing passes over a square that is attacked by an enemy pawn."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt was occupied by the Romans with the rest of the surrounding area in the first century BCE.\n\nSimplified version:",
+    "chosen": "It was also occupied by the Romans in the first century BCE.",
+    "rejected": "The Romans occupied it and the surrounding area in the first century BCE."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThese events were dramatized in the 1977 movie A Bridge Too Far.\n\nSimplified version:",
+    "chosen": "These events were put on film in the 1977 A Bridge Too Far.",
+    "rejected": "The events were made to look important in the 1977 movie A Bridge Too Far."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe bridge is administered by the Thousand Islands Bridge Authority, an international agency.\n\nSimplified version:",
+    "chosen": "The Thousand Islands Bridge Authority is in charge of the bridge.",
+    "rejected": "The international agency, the Thousand Islands Bridge Authority oversees the bridge."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDespite these unfavorable conditions, a curved convective band developed in its northern and western quadrants, and the circulation became better defined.\n\nSimplified version:",
+    "chosen": "A curved convective band started in its northern and western sections. The circulation became better defined.",
+    "rejected": "A development of a curved, connective band in the northern and western quadrants better defined the circulation despite the unfavorable conditions.."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn the a mathematics, a product is the result of multiplying, or an expression that identifies factors to be multiplied.\n\nSimplified version:",
+    "chosen": "In math, a product is the result of multiplying. It is also an expression that shows factors to be multiplied.",
+    "rejected": "In mathematics, a product is the result of a multiplication or an expression that identifies the factors to be multiplied."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFiorito originally produced foot fetish videos but soon moved on to coprophagia.\n\nSimplified version:",
+    "chosen": "Fiorito first produced foot fetish videos. Later he moved on to coprophagia.",
+    "rejected": "Fiorito originally made foot fetish videos but later started making videos about eating poop."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn March 2005, Pavarotti underwent neck surgery to repair two vertebrae.\n\nSimplified version:",
+    "chosen": "In March 2005, Pavarotti had neck surgery to fix two bones.",
+    "rejected": "In March 2005, Pavarotti experienced a neck surgery to repair two vertebrae."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSuch storms can feature strong surface winds and severe hail.\n\nSimplified version:",
+    "chosen": "Such storms can have strong winds and hail.",
+    "rejected": "Such storms can be accompanied by strong surface winds and severe hail."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is not known how much, if any, of this story is true, but historians do know that China was the first civilization to use silk.\n\nSimplified version:",
+    "chosen": "It is not known if the story is true. However, historians know China was the first to use silk.",
+    "rejected": "It is not known how much, if any, of this story is true, but historians do know that China was the first society to use silk."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe encryption key is trivially related to the decryption key, in that they may be identical or there is a simple transform to go between the two keys.\n\nSimplified version:",
+    "chosen": "The encryption key is lightly related to the decryption key. They may be identical. There may be a simple transform to go between the two keys.",
+    "rejected": "the locked security key is not like the unlocked security key, if you are thinking they may be the same or that it would be easy to change between the two of them"
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe volcano culminates at 1,060 metres, and its crater measures roughly 300 metres in diameter.\n\nSimplified version:",
+    "chosen": "The volcano is 1,060 metres tall. The crater is about 300 metres wide.",
+    "rejected": "The volcano is 1,060 meters high and its crater is about 300 meters in diameter."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nTraditionally, the leader of the National Party serves as Deputy Prime Minister when the Coalition is in government.\n\nSimplified version:",
+    "chosen": "The leader of the National Party serves as Deputy Prime Minister when the Coalition is in government.",
+    "rejected": "Traditionally, the leader of the National Party becomes Deputy Prime Minister when the Coalition is in government."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nNews reports indicate that the poorer, rural villages were hardest hit.\n\nSimplified version:",
+    "chosen": "The news says the poor, country villages were hit hardest.",
+    "rejected": "The poorer countryside villages were most affected."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nUnder President and CEO Reynolds, the park operated until April 13, 2003, when it closed after a prolonged tourism decline following the September 11, 2001 terrorist attacks.\n\nSimplified version:",
+    "chosen": "Under CEO Reynolds, the park was used until April 13, 2003. It closed when tourism went down after the September 11, 2001 terrorist attacks.",
+    "rejected": "The park controlled under President and CEO Reynolds until April 13, 2003, when it closed after a severe decline in tourism following the terrorist attacks on September 11, 2001."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe mountain range forms the border between both countries for 150 kilometers, extending from the western border of Saxony to the Elbe river.\n\nSimplified version:",
+    "chosen": "The mountain range forms the border between both countries for 150 kilometers. It goes from the western border of Saxony to the Elbe river.",
+    "rejected": "The mountain range forms the border between the two countries for 150 kilometers, reaching from the western border of Saxony to the River Elbe."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe year 1976 saw Punk arrive on what some people perceived to be a stagnant music scene and NME, like other \"specialist\" publications, was slow to cover this new phenomenon.\n\nSimplified version:",
+    "chosen": "In 1976, Punk arrived on the music scene. The NME and other magazines were slow to write about it.",
+    "rejected": "The year 1976 saw the advent of Punk on what some people saw as a declining music scene, and NME, like other \"specialist\" outlets, was hesitant to cover this new phenomenon."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nVery few consumers of bi-porn identify as gay.\n\nSimplified version:",
+    "chosen": "Few bi-porn watchers say they're gay.",
+    "rejected": "Not many consumers of bi-porn consider themselves to be gay."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nLocal existence Not all Bundesl\u00e4nder have this subdivision; some are directly divided into districts.\n\nSimplified version:",
+    "chosen": "Not all Bundesl\u00e4nder have this subdivision. Some divide up by districts.",
+    "rejected": "Some Bundeslander are divided into districts."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAs Norma dissipated, moisture from the cyclone was entrapped in a large extratropical low.\n\nSimplified version:",
+    "chosen": "As Norma went away, moisture from the storm was caught in a large extra-tropical low.",
+    "rejected": "As cyclone Norma dissipated, moisture was entrapped in a large extratropical low."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Taiwan Strait or Formosa Strait is a 180 - km-wide (111.85 - mile-wide) strait between mainland China and Taiwan.\n\nSimplified version:",
+    "chosen": "The Taiwan Strait, or Formosa Strait lies between mainland China and Taiwan. It is a 180 - km-wide (111.85 - mile-wide) strait .",
+    "rejected": "The Taiwan Strait is a body of water running between China and Taiwan that is 180 kilometers wide."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nRedwall is a series of fantasy novels by Brian Jacques.\n\nSimplified version:",
+    "chosen": "Brian Jacques wrote the Redwall novels. They are fantasy books.",
+    "rejected": "\"Redwall\" is a series of imaginary novels written by Brian Jacques."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nCaptive longevity is 20 to 30 years, with rare accounts of over 40 years, Reports of a individual living to 40 years in Philadelphia Zoo.\n\nSimplified version:",
+    "chosen": "They live around 20 to 30 years when kept by humans. One individual is said to have to be 40 in the Philadelphia Zoo.",
+    "rejected": "When caged animal live for 20 to 30 years with rare accounts of over 40 years, based on reports from Philadelphia Zoo."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nMexican cinnamon hot chocolate is traditionally served alongside a variety of Mexican pastries known as pan dulce and, as in Spain, churros.\n\nSimplified version:",
+    "chosen": "Mexican cinnamon hot chocolate is normally served with Mexican pastries called pan dulce. In Spain, it may be served with churros.",
+    "rejected": "Mexican cinnamon hot chocolate is traditionally served alongside a variety of Mexican pastries."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nPlessur is an administrative district in the canton of Graub\u00fcnden, Switzerland.\n\nSimplified version:",
+    "chosen": "Plessur is a district in the canton of Graub\u00fcnden, Switzerland.",
+    "rejected": "Plessur is an administrative area in the canton of Graub\u00fcnden, Switzerland."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn the historiography of Japan, the Edo period from 1590 to 1868 is also sometimes referred to as the early modern period.\n\nSimplified version:",
+    "chosen": "In the historiography of Japan, the Edo period is from 1590 to 1868. It is sometimes called the early modern period.",
+    "rejected": "In Japanese history, the Edo period (1590-1868) is often called the early modern period."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAmong his published works were Peace, a Lyric Poem (1814); Resignation (1817); The Triumph of Christianity (1819); and The Soldier's Friend (1828).\n\nSimplified version:",
+    "chosen": "He wrote the following books; Peace (1814); Resignation (1817); The Triumph of Christianity (1819); and the Soldier's Friend (1828).",
+    "rejected": "Part of his poems that were written for sale to the public are: Peace, a Lyric Poem (1814); Resignation (1817); The Triumph of Christianity (1819); and The Soldier's Friend (1828)."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHowever, this list contains substances which may have synthetic origins.\n\nSimplified version:",
+    "chosen": "But, the list has items that may not have been made naturally.",
+    "rejected": "This list contains substances which may have aritficial origins."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSeveral marsupial herbivores, notably koalas and some possums, are relatively tolerant of it.\n\nSimplified version:",
+    "chosen": "Several members of the marsupial family, like koalas and some possums, are able to eat it.",
+    "rejected": "Many marsupial herbivores tolerate it."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFor a person to be inducted to the Hockey Hall of Fame, they must be nominated by an elected 18 - person selection committee which consists of Hockey Hall of Fame members and media personalities.\n\nSimplified version:",
+    "chosen": "For person to get into the Hockey Hall of Fame, they must be nominated.  The nominates come from an elected 18-person committee.  The committee is made up of Hockey Hall of Fame members and members of the press.",
+    "rejected": "For a person to be inducted to the Hockey Hall of Fame, they must be chosen by an elected 18 - person selection committee which are made up of Hockey Hall of Fame members and media personalities."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nShadow of the Hegemon (2001) is the second novel in the Ender's Shadow series (often called the Bean Quartet) by Orson Scott Card.\n\nSimplified version:",
+    "chosen": "The second book in the Ender's Shadow series is Shadow of the Hegemon (2001). Orson Scott Card is the author.",
+    "rejected": "Shadow of the Hegemon (2001) is the second novel well into the Ender Shadow series (often called the Bean Quartet) by Orson Scott Card."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAccording to the study, if all this software had been developed by conventional proprietary means, it would have cost about $(US dollars) to develop in the United States.\n\nSimplified version:",
+    "chosen": "A study shows the cost in US dollars. Its basis highlights the differences in software creation by standard ways.",
+    "rejected": "According to the study, that all of this software had been developed by conventional proprietary ensures, it would have cost about $(US dollars) to develop in the United States."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn June 2008, it was announced that a further four-year deal would commence for the 2010 / 11 season, with the deal worth \u00a3125m.\n\nSimplified version:",
+    "chosen": "In June 2008, they said a four-year deal would start for the 2010 / 11 season. The deal was worth \u00a3125m.",
+    "rejected": "In June 2008, it was revealed that another four-year deal would begin for the 2010/11 season, worth \u00a3 125 m."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHistory The first mention of the town dates from 1178.\n\nSimplified version:",
+    "chosen": "The first town date is from 1178.",
+    "rejected": "History: The town is first spoken about around 1178."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFire Salamanders can have a very long lifespan.\n\nSimplified version:",
+    "chosen": "Fire Salamanders can live for a long time.",
+    "rejected": "Fire Salamanders can live very long."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe city has a larger population than the provincial capital, and ranks second in land area.\n\nSimplified version:",
+    "chosen": "More people live in the city than in the province's capital.",
+    "rejected": "The city is second in land area and has a larger population than the capital."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThese cone photoreceptors are sensitive to different portions of the visible spectrum.\n\nSimplified version:",
+    "chosen": "These cone photoreceptors are sensitive to different parts of the spectrum you can see.",
+    "rejected": "These cone photoreceptors are sensitive to different areas of the visible spectrum."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDue to its appearance at burial sites across the globe, the spiral most likely represented the \"life-death-rebirth\" cycle.\n\nSimplified version:",
+    "chosen": "Since it was found at many graves around the world, the spiral most likely meant the \"life-death-rebirth\" cycle.",
+    "rejected": "The spiral probably represented the \"life-death-rebirth\" cycle, due to its appearance at different global burial sites."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Fert group first saw the large effect in multilayers that led to its naming, and first correctly explained the underlying physics.\n\nSimplified version:",
+    "chosen": "The Fert group first saw the large effect in multilayers. This led to its naming. It also first correctly explained the physics causing this.",
+    "rejected": "The Fert group was the first to see the large effect in multi-layers that led to its naming, and the first to explain the underlying of physics."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe album was fueled by the single \"Fat Lip\", which reached the top position on the Billboard Modern Rock chart, making it the band's most successful single.\n\nSimplified version:",
+    "chosen": "The album was helped by the single \"Fat Lip.\" It reached the top of the Billboard Modern Rock chart. It was the band's most successful single.",
+    "rejected": "The album was fueled by the single \"Fat Lip\", which was at the top on the Billboard Modern Rock chart, making it the band's most successful single."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHis baptism followed on May 3 in the river Lark, at Isleham.\n\nSimplified version:",
+    "chosen": "He was baptized on May 3 in Lark river.",
+    "rejected": "His baptism was on May 3  and at the river Lark, Isleham"
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nA night shift is either a group of workers who work during the night, or the period in which they work.\n\nSimplified version:",
+    "chosen": "A night shift can be a group of workers who work during the night. It can also be the time that they work.",
+    "rejected": "A night shift is a name for a group of workers who work during the night, or it can be the period in which they work."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHistory Vaihingen may date back as far as 799 a. d., but the documents are not clear.\n\nSimplified version:",
+    "chosen": "Vaihingen may date back as far as 799 a. d. The documents are not clear.",
+    "rejected": "The history of Vaihingen may have begun as early as 799 a.d.  However, the documents are hard to understand."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is not clear whether it is only a transient clump of dust, or if there is a solid moonlet at its core.\n\nSimplified version:",
+    "chosen": "There may be a transient clump of dust or a solid moonlet at it's core.",
+    "rejected": "It is not clear whether it is only a temporary clump of dust, or if there is a small solid moon at it's center."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt was released on January 21, 2003 and garnered DVDX awards for best animated feature, best director, best editing, and best musical score.\n\nSimplified version:",
+    "chosen": "The movie came out on January 21, 2003.  It won many DVDX awards.",
+    "rejected": "It was released January 21, 2003 and won DVDX awards for best animated feature, best director, best editing, and best musical score."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe strengthening trend abated early on July 8, due to wind shear, and Bertha rapidly weakened back to a Category 1 hurricane that afternoon.\n\nSimplified version:",
+    "chosen": "It stopped strengthening on July 8th because of wind shear and Bertha weakened down to a Cat. 1 hurricane by the afternoon.",
+    "rejected": "Bertha rapidly weakened back to a Category 1 hurricane that afternoon, due to wind shear."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn 911, French King Charles the Simple was able to make an agreement with the Viking warleader Rollo, a chieftain of disputed Norwegian or Danish origins.\n\nSimplified version:",
+    "chosen": "In 911, King Charles the Simple made an agreement with the Viking leader Rollo.",
+    "rejected": "In 911, the French King Charles the Simple was able to enter into an agreement with the Viking war leader Rollo, the leader of the disputed Norwegian or Danish origins."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nCommand Module Pilot Stuart Roosa took several hundred seeds on the mission, many of which were germinated on return resulting in the so called Moon trees.\n\nSimplified version:",
+    "chosen": "Command Module Pilot Stuart Roosa took several hundred seeds on the mission. They were sprouted on return. They're called Moon trees.",
+    "rejected": "Command Module Pilot Stuart Roosa took several hundred seeds to the mission, many of which were sprouted in return, resulting in the so-called Moon trees."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nMeanwhile, Big Mama explains to Tod that his friendship with Copper can not continue, as they are natural enemies, but Tod refuses to believe her.\n\nSimplified version:",
+    "chosen": "Big Mama explains to Tod that his friendship with Copper can not continue. They are natural enemies. Tod doesn't believe her.",
+    "rejected": "Tod didn't believe Big Mama even after she explains to him that her friendship with Copper cannot continue because they are natural enemies."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt can also be used pejoratively, to refer to a common street beggar who chants holy names, scriptures or verses.\n\nSimplified version:",
+    "chosen": "It can also be used as an insult. It refers to a beggar who chants holy names, scriptures or verses.",
+    "rejected": "It can also be used derisively to refer to a common street beggar who sings holy names, scriptures or verses."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Saugor and Nerbudda Territories were attached to the North-Western Provinces, which included the British Dominions in the southern portion of present-day Uttar Pradesh state.\n\nSimplified version:",
+    "chosen": "The Saugor and Nerbudda Territories were a part of the North-Western Provinces. And so were the British territories in the southern part of Uttar Pradesh.",
+    "rejected": "The Saugor and Nerbudda Territories were attached to the North-Western Provinces, which included the British Dominions in southern Uttar Pradesh state."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHe was nominated a Cardinal Priest, of the title of Santa Maria Nuova, on 18 February 1946.\n\nSimplified version:",
+    "chosen": "He was nominated a Cardinal Priest in 1946. He was given the title of Santa Maria Nuova.",
+    "rejected": "He was nominated the Cardinal Priest of Santa Maria Nuova, on February 18, 1946."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHolly Springs is a town in Wake County, North Carolina, United States.\n\nSimplified version:",
+    "chosen": "Holly Springs is a town in Wake County, NC, USA.",
+    "rejected": "Holly Springs is in Wake County, North Carolina, United States."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAfter initially being posted to the 1st Battalion, in March, 1916 he was transferred to the 53rd Battalion, which was part of the 5th Division, when the Australian Imperial Force was reinforced with fresh recruits from Australia.\n\nSimplified version:",
+    "chosen": "He was posted to the 1st Battalion. He was transferred in 1916 to the 53rd Battalion. He was part of the 5th Division there. The Australian Imperial Force was reinforced with fresh recruits.",
+    "rejected": "After initially being posted to the 1st Battalion, in March, 1916 he was transferred to the 53rd Battalion, which was part of the 5th Division, when the Australian Imperial Force was strengthened with fresh intakes from Australia."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWhile not lethal, consuming this mushroom leads to very severe cramps, vomiting, and diarrhea.\n\nSimplified version:",
+    "chosen": "Eating the mushroom won't kill you but will make you sick.",
+    "rejected": "Consuming this mushroom leads to severe cramps, vomiting and diarrhea."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nElectra welcomes the idea of going to Argos with Idamante.\n\nSimplified version:",
+    "chosen": "Electra wants to go to Argos with Idamante.",
+    "rejected": "Electra welcomes the idea of going with Idamante to Argos."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nCale's Story: the adventures of Cale, ending with the beginning of the film.\n\nSimplified version:",
+    "chosen": "The adventures of Cale end with the beginning of the film.",
+    "rejected": "Cale's Story: Cale's adventures, ending with the beginning of the film."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe NHL instituted the icing rule on March 13, 1939.\n\nSimplified version:",
+    "chosen": "The NHL made the icing rule in 1939.",
+    "rejected": "On March 13, 1939, the NHL instituted the icing rule."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nItalians know it for hosting a maximum-security prison (1858 - 1998) holding especially dangerous Mafia criminals.\n\nSimplified version:",
+    "chosen": "Italians know it as a maximum-security prison from 1858 to 1998. It had really dangerous Mafia criminals.",
+    "rejected": "It is popular among Italians for hosting a maximum-security which especially contained dangerous Mafia criminals from 1858 to 1998"
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn 1845 it joined the United States as the 28th state.\n\nSimplified version:",
+    "chosen": "Texas joined the union in 1845. It is the 28th state.",
+    "rejected": "It became the 28th State in the USA in 1845."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn other media Aquaman has appeared in multiple cartoon series, as well as a live action version appearing in the TV series Smallville.\n\nSimplified version:",
+    "chosen": "Aquaman has appeared in multiple cartoon series. He was in a live action version on the TV series Smallville.",
+    "rejected": "Aquaman has appeared in several cartoon series in other media, as well as in a live action version of the Smallville TV series."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nMark Schatz has played bass regularly with the group since 2003.\n\nSimplified version:",
+    "chosen": "Mark Schatz played bass with the group since 2003.",
+    "rejected": "Mark Schatz has played the music instrument bass regularly with the group since 2003."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nLaw of Independent Assortment (The \"Second Law\") The Law of Independent Assortment, also known as \"Inheritance Law\", states that alleles of different genes assort independently of one another during gamete formation.\n\nSimplified version:",
+    "chosen": "Law of Independent Assortment (The \"Second Law\"): The Law of Independent Assortment states that alleles of different genes assort independently while gametes are forming. This is also known as \"Inheritance Law\".",
+    "rejected": "Law of Independent Assortment (Inheritance Law): Different alleles genes are independent of one another during gamete formation."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHe commanded the 25th Punjabis in India and Hong Kong and was promoted to Lieutenant-Colonel in 1910.\n\nSimplified version:",
+    "chosen": "He was the leader of the 25th Punjabis in India and Hong Kong. He became Lieutenant-Colonel in 1910.",
+    "rejected": "He became Lieutenant -Colonel in 1910 after commanding the 25th Punjabis in India and Hong Kong."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn addition, the station provides live coverage of the non-final rounds of the other Grand Slam tournaments.\n\nSimplified version:",
+    "chosen": "Also the station gives live handling of the other non-final Grand Slam rounds.",
+    "rejected": "The station also provides live coverage of the non-final rounds of the other Grand Slam tournaments."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWhile collaborating with Myl\u00e8ne Farmer and Laurent Boutonnat, Aliz\u00e9e released two albums \u2014 both of which were hits inside and outside of France.\n\nSimplified version:",
+    "chosen": "Aliz\u00e9e released two albums with Myl\u00e8ne Farmer and Laurent Boutonnat. Both were hits inside and outside of France.",
+    "rejected": "Whie Alizee cooperated with Mylene Farmer and Laurent Boutonnat, she released two albums that were popular in and out of France."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe account of Ninigi no Mikoto being sent to earth appears in the Nihon Shoki.\n\nSimplified version:",
+    "chosen": "Ninigi no Mikoto was sent to Earth in the Nihon Shoki.",
+    "rejected": "Ninigi no Mikoto's story of being transported to Earh can be found in the \"Nihon Shoki\" book."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nMedieval philosophy In Medieval Europe, dialectics (also called logic) was one of the three original liberal arts collectively known as the trivium (the others were rhetoric and grammar).\n\nSimplified version:",
+    "chosen": "In Medieval Europe, there were three liberal arts. They were called trivium. Logic was one of the three. The other two were rhetoric and grammar.",
+    "rejected": "Philosophy In Medieval Europe, where logic was one of the three original arts known together as the trivium."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe possibility remained that liquid ethane and methane might be found on Titan's poles, where it was expected to be abundant and stable.\n\nSimplified version:",
+    "chosen": "It is possible that liquid ethane and methane might be found on Titan's poles. It was expected to be a lot of it there.",
+    "rejected": "Ethane and Methane gases are supposedly stable and abundant on Titan's poles."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThese Eid prayers are supposed to be offered in large groups, and so larger mosques will normally host them for their congregants as well as the congregants of smaller local mosques.\n\nSimplified version:",
+    "chosen": "Eid prayers are available for large groups. Larger mosques might have them for their members. They might help smaller mosques by hosting them too.",
+    "rejected": "These Eid prayers are to be given in big groups, so large mosques will host them for their members as well as those from smaller local mosques."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAfter the release of a promotional single, Glory to the Brave was released throughout Europe.\n\nSimplified version:",
+    "chosen": "Glory to the Brave was released in Europe.",
+    "rejected": "Following a promotional single, Glory to the Brave was released throughout Europe."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAsia The last Western Satrap, Rudrasimha III, is defeated by the Guptas.\n\nSimplified version:",
+    "chosen": "The Guptas beat the last Western Satrap. He was Rudrasimha III.",
+    "rejected": "Asia The last Western Satrap, Rudrasimha III, was defeated by the Guptas."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nRobert Leroy Johnson (May 8, 1911 \u2013 August 16, 1938) was an American blues musician, among the most famous of Delta blues musicians.\n\nSimplified version:",
+    "chosen": "Robert Leroy Johnson was born May 8, 1911. He died August 16, 1938. He was an American. He played the blues. He was a well known Delta blues musician.",
+    "rejected": "Robert Leroy Johnson was an American blues musician, among the most famous of Delta blues musicians."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThis cemented public support for the gang especially in northeast Victoria.\n\nSimplified version:",
+    "chosen": "This made certain public support for the gang. It was especially in northeast Victoria.",
+    "rejected": "This reinforced public support for the gang, particularly in northeast Victoria."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHurricane Lane was the strongest Pacific hurricane to make landfall in Mexico since Hurricane Kenna of 2002.\n\nSimplified version:",
+    "chosen": "Hurricane Lane made landfall in Mexico. It was the strongest since Hurricane Kenna in 2002.",
+    "rejected": "Hurricane Lane was the strongest Pacific hurricane to hit Mexico since Hurricane Kenna."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAs a result of Selene being conflated with Artemis, later writers sometimes referred to Selene as a daughter of Zeus, like Artemis, or of Pallas the Titan.\n\nSimplified version:",
+    "chosen": "Selene's stories were condensed with Artemis. Writers often claim she is a daughter of Zeus or Pallas the Titan.",
+    "rejected": "As a result of a blaze of\u00a0fire\u00a0\u00a0between Selene and Artemis, later writers sometimes linked to Selene as a daughter of Zeus, like Artemis, or Pallas the Titan."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSpurgeon (1911), p. 565 \"It is called a\" book \", as it is usually represented with pages, although it can be shown on a single page or banner.\n\nSimplified version:",
+    "chosen": "Spurgeon of 1911 is called a book as it is shown with pages. It could be a page or banner.",
+    "rejected": "Spurgeon (1911), page 565 says \"It is called a\" book \", as it is usually represented with pages, although it can be shown on a single page or banner."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAs of 2007, a maximum of four players can be inducted in one year but the greatest number of players ever inducted in a year was 27, in 1962.\n\nSimplified version:",
+    "chosen": "In one year, four players can be voted in. The rule changed in 2007. The greatest number ever entered was 27 in 1962.",
+    "rejected": "The maximum number of players that can be inducted in a year is four as of 2007 although in 1962, 27 was inducted and this is the greatest number ever inducted in a year."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nColin Powell, a long time advocate, has recommended a simple moment of silence at the start of each school day.\n\nSimplified version:",
+    "chosen": "Colin Powell was a long time advocate. He has recommended a moment of silence at the start of each school day.",
+    "rejected": "Colin Powell is a long time advocated and has recommended a simple moment of silence at the start of each school day."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nA small amount of matcha is placed into the bowl, traditionally using a bamboo scoop called a chashaku, then a modicum of hot (not boiling) water is added.\n\nSimplified version:",
+    "chosen": "A small amount of matcha is placed into the bowl. Then hot (not boiling) water is added.",
+    "rejected": "A small portion of matcha is placed in the bowl, traditionally using a bamboo scoop called chashaku, and then a small number of hot (not boiling) water is added."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nAs the last album of the Scandinavian vocal music series, Pohjola produced a tribute to the Finnish legendary tango composer, Toivo K\u00e4rki on the album, Leivonen lumimyrskyss\u00e4 (A Lark in a Snowstorm) (2006).\n\nSimplified version:",
+    "chosen": "Pohjola produced a tribute to the Finnish composer Toivo Karki on the album.",
+    "rejected": "As the last album of the Scandinavian vocal music series, Pohjola created a tribute to the legendary Finnish tango pianist Toivo K\u00e4rki on the album Leivonen lumimyrskyss\u00e4 (A Lark in a Snowstorm) (2006)."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nPedro involves the title character, a small airplane from Chile, engaging in his very first flight to pick up air mail from Mendoza, with near disastrous results.\n\nSimplified version:",
+    "chosen": "Pedro is a small airplane from Chile.  In this story, he is making his very first flight to pick up air mail from Mendoza.  The flight was nearly a disaster.",
+    "rejected": "Pedro includes the title character, a small Chilean aircraft, participating with nearly disastrous results in his very first trip to pick up air mail from Mendoza."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHurricane Epsilon was only the sixth ever Atlantic hurricane recorded in December.\n\nSimplified version:",
+    "chosen": "Hurricane Epsilon is the sixth ever known Atlantic hurricane to happen in December.",
+    "rejected": "Hurricane Epsilon was only the sixth Atlantic hurricane ever reported in December."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\n2016 (MMXVI) will be a leap year starting on Friday of the Gregorian calendar.\n\nSimplified version:",
+    "chosen": "2016 starts Friday and is a leap year.",
+    "rejected": "2016 (MMXVI) will be a leap year beginning on Friday of the Gregorian calendar."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDuring and after the Thirty Years' War, Soest suffered a tremendous loss of both population and influence; at the lowest point in 1756 it had only 3,600 citizens.\n\nSimplified version:",
+    "chosen": "During the \"Thirty Years' War, Soest lost people and power. In 1756 it had only 3,600 people.",
+    "rejected": "During and after the Thirty Years ' War, Soest suffered an enormous loss of population and influence, with only 3,600 citizens at the lowest point in 1756."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nTo sponsor something is to support an event, activity, person, or organization financially or through the provision of products or services.\n\nSimplified version:",
+    "chosen": "To sponsor something is to support an event, activity, person, or organization. It could be with money or products or services.",
+    "rejected": "Sponsorship is supporting an event, activity, person or organization financially or through products or services."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nDuring the early 1960s, Love first crossed paths with Jim Henson through Don Sahlin, who urged him to meet with Henson.\n\nSimplified version:",
+    "chosen": "In 1960s, Love first met Jim Henson. Don Sahlin urged him to meet with Henson.",
+    "rejected": "In the early 1960s, Love first crossed paths with Jim Henson through Don Sahlin, who encouraged him to meet with Henson."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHe attended the General Theological Seminary and earned his BA in theology and MA from Oriel College, Oxford University (1962, 1966).\n\nSimplified version:",
+    "chosen": "He earned his BA and MA from Oriel College, Oxford and studied theology.",
+    "rejected": "He studied at the General Theological Seminary and Oxford University and earned degrees in theology."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHowever, the council was delayed until 1545, and convened right before Luther's death.\n\nSimplified version:",
+    "chosen": "The council was delayed until 1545. It convened just before Luther's death.",
+    "rejected": "The council, however, was pushed back until 1545 and convened immediately before the death of Luther."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe International Union for Conservation of Nature and Natural Resources (IUCN) is an international organization dedicated to natural resource conservation.\n\nSimplified version:",
+    "chosen": "An organization for natural resource conservation is The IUCN.",
+    "rejected": "The International Union for Conservation of Nature and Natural Resources (IUCN) is an international organization dedicated to protecting natural resource."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWhen animals or people freerun, experiments can be done to see what sort of signals, known as zeitgeber, are effective in entrainment.\n\nSimplified version:",
+    "chosen": "When animals or people freerun, experiments can be done. They can see what sort of signals, known as zeitgeber, work in entrainment.",
+    "rejected": "When animals or people freerun, experiments can reveal which signals, known as zeitgeber, are effective in entrainment."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nPsyche appears to be a genuine case of an exposed metallic core from a larger differentiated parent body.\n\nSimplified version:",
+    "chosen": "Psyche appears to be a genuine case. It is of an exposed metallic core from a different parent body.",
+    "rejected": "Psyche is a genuine case of an exposed metallic core from a larger differentiated parent body."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nChess boxing fights have been organized since early 2003.\n\nSimplified version:",
+    "chosen": "Chess boxing fights have been around since 2003.",
+    "rejected": "Chess boxing fights have existed since early 2003."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Big Mac PPP exchange rate between two countries is obtained by dividing the price of a Big Mac in one country (in its currency) by the price of a Big Mac in another country (in its currency).\n\nSimplified version:",
+    "chosen": "The Big Mac PPP tracks price differences. The equation divides the price of a Big Mac in one country by the price of a Big Mac in another country.",
+    "rejected": "The Big Mac PPP exchange rate between two countries is discovered by dividing the price of a Big Mac in one country (in its currency) by the price of a Big Mac in another country (in its currency)."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is one of the most historic motor racing circuits in the world.\n\nSimplified version:",
+    "chosen": "It is one of the most famed motor racing tours in the world.",
+    "rejected": "It's regarded as one of the most historic motor racing circuits."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nLisa Donovan (born June 11, 1981) is an American actress and writer.\n\nSimplified version:",
+    "chosen": "Lisa Donovan is an American actress and writer. She was born June 11, 1981.",
+    "rejected": "American actress/writer, Lisa Donovan was born 06/11/81."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHowell County is a county located in South Central Missouri in the United States.\n\nSimplified version:",
+    "chosen": "Howell County is in the state of Missouri.",
+    "rejected": "Howell County is located in Southern Central Missouri, U.S.A."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe show followed the lives of a group of teenagers living in the upscale, star-studded community of Beverly Hills, California and attending the fictitious West Beverly High School and, subsequently, the fictitious California University after graduation.\n\nSimplified version:",
+    "chosen": "The show was about a group of teenagers living in Beverly Hills, California.",
+    "rejected": "The show was about the lives of some teenagers who lived in the expensive area of Beverley Hills, attended the fake West Beverley High School and later, the fake California University."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn the Middle Ages the region profited from the vicinity of the wealthy Hanseatic city of Rostock.\n\nSimplified version:",
+    "chosen": "The region profited in the Middle Ages. The wealthy Hanseatic city of Rostock made it possible.",
+    "rejected": "In the Middle Ages the region profited from the wealthy Hanseatic city of Rostock's location."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nStallman pioneered the concept of copyleft and is the main author of several copyleft licenses including the GNU General Public License, the most widely used free software license.\n\nSimplified version:",
+    "chosen": "Stallman started the concept of copyleft. He is the main author of several copyleft licenses. This includes the GNU General Public License. It is the most widely used free software license.",
+    "rejected": "Stallman has pioneered the idea of copyleft and is the main author of a few copyleft licenses, including the GNU General Public License, the most widely used free software license."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt was a deliberate pursuit of simplicity and economy for the Disney studio, and is now generally regarded as a classic of animation.\n\nSimplified version:",
+    "chosen": "It was a planned search of simplicity and economy for the Disney studio. It is now seen as a classic of animation.",
+    "rejected": "It was a deliberately simple economic pursuit for the Disney studio, and is now generally regarded as an animated classic."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn 1871 the fortification received an additional barracks.\n\nSimplified version:",
+    "chosen": "In 1871 it got more buildings for the soldiers.",
+    "rejected": "The fortification received additional barracks in 1871."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHe met his wife, dancer Michelle McSween, when the pair starred in the stage musical Oh, What a Night in 1999.\n\nSimplified version:",
+    "chosen": "He met his wife when the two starred in Oh, What a Night.",
+    "rejected": "He met Michelle McSween, a dancer who later became his wife when they both performed at musical Oh's \"What a Night\" in 1999."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn 1963, Haile Selassie presided over the establishment of the Organisation of African Unity, with the new organization establishing its headquarters in Addis Ababa.\n\nSimplified version:",
+    "chosen": "In 1963, Haile Selassie led the creation of the Organisation of African Unity. Its headquarters was in Addis Ababa.",
+    "rejected": "Haile Selassie presided over the establishment of the Organisation of African Unity in 1963, with the new organization establishing its headquarters in Addis Ababa."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nTheir religion is predominantly Roman Catholic.\n\nSimplified version:",
+    "chosen": "They are mostly Roman Catholic.",
+    "rejected": "Their religion is mainly Roman Catholic."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe museum and Pearson Field, along with the Fort Vancouver National Historic Site, are part of the Vancouver National Historic Reserve.\n\nSimplified version:",
+    "chosen": "The museum and Pearson Field are part of the Vancouver National Historic Reserve.",
+    "rejected": "The Vancouver National Historic Reserve includes the museum, Pearson Field, and Fort Vancouver National Historic Site."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nWorking extensively with the BBC, Ross has presented The Film programme since 1997, his own chat show, Friday Night with Jonathan Ross since 2001, and a radio show on BBC Radio 2 beginning in 1999.\n\nSimplified version:",
+    "chosen": "Working extensively with the BBC, Ross has presented The Film programme since 1997. He has also presented his own chat show, Friday Night with Jonathan Ross since 2001. In 1999, he started a radio show on BBC Radio 2.",
+    "rejected": "Ross has presented The Film programme since 1997 while working with the BBC and having his own chat show Friday Night with Jonathan Ross since 2001, also a radio show on BBC Radio 2 in 1999."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHer death from leukaemia in 1998 was a shock to the nation and her family.\n\nSimplified version:",
+    "chosen": "When she died from leukaemia in 1998  it was a shock to everyone.",
+    "rejected": "Her death from leukemia in 1998 was indeed a shock to the nation and her family."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt is not one of the five Nobel Prizes established by the will of Alfred Nobel in 1895.\n\nSimplified version:",
+    "chosen": "It's not of the five Alfred Nobel prizes",
+    "rejected": "It isn't one of the (5) Nobel Prizes created by the will of Alfred Nobel in 1895."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nTropical Storm Ana was the only tropical cyclone on record in the Atlantic basin during the month of April.\n\nSimplified version:",
+    "chosen": "In April, Ana was the only cyclone in the Atlantic basin.",
+    "rejected": "Tropical Storm Ana was the only recorded tropical cyclone in the Atlantic during April."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSubsequently, in February 1941, 600 Jews were sent to Buchenwald and Mauthausen concentration camps.\n\nSimplified version:",
+    "chosen": "600 Jews were sent to Buchenwald and Mauthausen concentration camps in 1941.",
+    "rejected": "After, in February 1941, 600 Jews were sent to Buchenwald and Mauthausen concentration camps."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe Beatles famously included his face on the cover of Sgt. Pepper's Lonely Hearts Club Band (Guy and Llewelyn-Jones 2004, 111).\n\nSimplified version:",
+    "chosen": "The Beatles put his face on the cover of Sgt. Pepper's Lonely Hearts Club Band.",
+    "rejected": "The beatles included their picture on the album cover of Sgt. Pepper's Lonely Hearts Club Band"
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nA variation of the Mai style of Japanese dance is the Kyomai or Kyoto Style Dance.\n\nSimplified version:",
+    "chosen": "Kyomai is a type of the Mai style Japanese dance.",
+    "rejected": "The Kyomai or Kyoto Style Dance is a A variation of the Mai style of Japanese dance."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nCave himself often contributed pieces to the Magazine under the pen name of Sylvanus Urban.\n\nSimplified version:",
+    "chosen": "Cave often gave pieces to the Magazine. He used the pen name Sylvanus Urban.",
+    "rejected": "Cave used to call himself Sylvanus Urban when contributing articles to magazines."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn common law legal systems, a precedent or authority is a legal case establishing a principle or rule that a court or other judicial body utilizes when deciding subsequent cases with similar issues or facts.\n\nSimplified version:",
+    "chosen": "A precedent is a legal case establishing a rule. A new court uses that case to decide other cases with similar issues or facts.",
+    "rejected": "In common law legal systems, a precedent or authority is a legal case establishing a principle or rule that a court or other judicial body looks to as an example when deciding following cases with similar issues or facts."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nName The band came up with the name by flicking through the Bible and picking out a random word.\n\nSimplified version:",
+    "chosen": "The band got their name by checking random words in the Bible",
+    "rejected": "The band came up with the name by flicking through the Bible and picking out a random word."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFIFA's supreme body is the FIFA Congress, an assembly made up of representatives from each affiliated member association.\n\nSimplified version:",
+    "chosen": "FIFA's main group is the FIFA Congress, an council made up of reps from each  member of FIFA.",
+    "rejected": "FIFA's highest body is the FIFA Congress, a gathering made up of representatives from each affiliated member association."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSince 1987, the heavy rail passenger Mass Rapid Transit (MRT) metro system has been in operation.\n\nSimplified version:",
+    "chosen": "Mass Rapid Transit (MRT) metro has been working since 1987.",
+    "rejected": "The heavy rail passenger Mass Rapid Transit (MRT) metro system has been working since 1987."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nA common element in most conceptions of piety is humility.\n\nSimplified version:",
+    "chosen": "Most people consider being modest to be part of piety.",
+    "rejected": "Most conceptions of piety include humility."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nArtifacts at the museum include military aircraft: a Sopwith Triplane from the First World War and an Avro Lancaster from the Second World War.\n\nSimplified version:",
+    "chosen": "The museum has a Sopwith Triplane from the First World War. It also has an Avro Lancaster from the Second World War.",
+    "rejected": "The museum's artifacts include military aircraft: the Sopwith Triplane of the First World War and the Avro Lancaster of the Second World War."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nSchneier designed Blowfish as a general-purpose algorithm, intended as a replacement for the aging DES and free of the problems and constraints associated with other algorithms.\n\nSimplified version:",
+    "chosen": "Schneier made Blowfish. It is an all-purpose algorithm. He made it to replace an aging system. Blowfish would be free of problems and limitations.",
+    "rejected": "Schneier designed Blowfish as a general-purpose algorithm, to replace the aging DES and to solve the problems and constraints associated with other algorithms"
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nHistory The name Glinde was first mentioned in a document dated from March 25 1229.\n\nSimplified version:",
+    "chosen": "Glinde was first mentioned in March 25 1229.",
+    "rejected": "History the\u00a0name Glinde had first been mentioned in a document dated March 25, 1229."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nCognition is the scientific term for \"the process of thought\".\n\nSimplified version:",
+    "chosen": "Cognition is the term for \"the process of thought\".",
+    "rejected": "Cognition is the scientific term for \"learning\"."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe bank then lends these deposits to borrowers.\n\nSimplified version:",
+    "chosen": "The bank then lends these deposits. They go to borrowers.",
+    "rejected": "The bank lets people borrow the deposited money."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nFinished by AD 8, possibly published posthumously.\n\nSimplified version:",
+    "chosen": "It was done by AD 8. It may have been published after death.",
+    "rejected": "It was completed by AD 8, possibly published posthumously."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIt was launched on 7 December 1998, and is available on digital television via satellite, cable, IPTV and terrestrial (Freeview) platforms.\n\nSimplified version:",
+    "chosen": "It launched in 1998 and is available on a number of platforms.",
+    "rejected": "After launching on 7 December 1998, it has become available on digital television via satellite, cable, IPTV and terrestrial ."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn October 1983, the Grameen Bank Project was transformed into an independent bank by government legislation.\n\nSimplified version:",
+    "chosen": "In October 1983, the Grameen Bank Project was changed into an independent bank. Government legislation did it.",
+    "rejected": "The Grameen Bank Project was transformed into an independent bank by government legislation on October 1983."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nIn practice, however, the definition means that high-precision realizations of the second should compensate for the effects of the ambient temperature (black-body radiation) within which atomic clocks operate, and extrapolate accordingly to the value of the second at a temperature of absolute zero.\n\nSimplified version:",
+    "chosen": "It means that high-precision calculations of the second should make up for the ambient temperature effects. Atomic clocks operate and extrapolate in these effects. It happens to the value of the second at absolute zero.",
+    "rejected": "In practice, high-precision realizations of the second should compensate for the effects of the ambient temperature (black-body radiation) within which atomic clocks operate, and continue accordingly to the value of the second at a temperature of absolute zero."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nOn the 15 November 2003 a Sprinter train travelling to Ballarat was derailed between Ballan and Gordon injuring 61 people when it hit a stationary car on a country railway crossing.\n\nSimplified version:",
+    "chosen": "In 2003, a Sprinter train went off the rail and hit a car. It injured 61 people.",
+    "rejected": "A Sprinter train that was derailed between Ballan and Gordon injuring 61 people, when it hit a stationary car on a country railway crossing on November 15, 2003."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nA console manufacturer is a company that manufactures and distributes video game consoles.\n\nSimplified version:",
+    "chosen": "A console maker is a company that makes and sells video game systems.",
+    "rejected": "A console manufacturer manufactures and distributes video game consoles."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nLinks with poverty and crime Those who are functionally illiterate may be subject to social intimidation, health risks, stress, low income, and other pitfalls associated with their reading and writing deficits.\n\nSimplified version:",
+    "chosen": "Those who can't write or read may be treated badly and have health risks, stress, low income, and other problems.",
+    "rejected": "Links to crime and poverty Those who are functionally illiterate may be subject to social\u00a0 terrify, health risks, stress, low income and other pitfalls associated with reading and writing deficits."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nThe term \"union council\" may be used for localities that are part of cities.\n\nSimplified version:",
+    "chosen": "The term \"union council\" can be used for some parts of the cities.",
+    "rejected": "Union council refers to areas that are within cities."
+  },
+  {
+    "prompt": "Simplify the following sentence so it is easier to read:\n\nModern African history has been rife with revolutions and wars as well as the growth of modern African economies and democratization across the continent.\n\nSimplified version:",
+    "chosen": "Modern African history is full of revolutions, wars, and the growth of modern countries.",
+    "rejected": "Modern African history is common\u00a0with revolutions and wars, as well as the growth of modern African economies and democratization around the continent."
+  }
+]
