@@ -45,12 +45,12 @@ def main():
         output_dir=OUTPUT_DIR,
         per_device_train_batch_size=2,
         gradient_accumulation_steps=4,
-        learning_rate=5e-5,
-        num_train_epochs=3,
+        learning_rate=2e-5,          # was 5e-5 — more conservative
+        num_train_epochs=2,          # was 3 — less overfitting
         logging_steps=10,
         save_steps=200,
         save_total_limit=2,
-        beta=0.1,
+        beta=0.3,                    # was 0.1 — stays closer to base model
         max_length=512,
         max_prompt_length=256,
         warmup_steps=50,
