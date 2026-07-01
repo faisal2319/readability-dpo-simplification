@@ -9,6 +9,7 @@ from openai import OpenAI
 
 MODEL_NAME = "meta-llama/Llama-3.2-3B-Instruct"
 DPO_PATH = "Faisal2319/readability-dpo-llama32"
+RESULTS_PATH = "results/generations.json"
 
 def load_model(use_dpo=False):
     bnb_config = BitsAndBytesConfig(
@@ -54,6 +55,20 @@ def generate_gpt4(client, source):
 def extract_source(prompt):
     return prompt.split("easier to read:\n\n")[1].split("\n\nSimplified")[0].strip()
 
+def save_results(results):
+    os.makedirs("results", exist_ok=True)
+    with open(RESULTS_PATH, "w") as f:
+        json.dump(results, f, indent=2)
+
+def load_existing_results():
+    if os.path.exists(RESULTS_PATH):
+        with open(RESULTS_PATH) as f:
+            return json.load(f)
+    return []
+
+def already_done(results, model_name):
+    return any(r["model"] == model_name for r in results)
+
 def main():
     with open("data/test_pairs.json") as f:
         test_pairs = json.load(f)
@@ -62,27 +77,51 @@ def main():
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     tokenizer.pad_token = tokenizer.eos_token
     
-    results = []
+    results = load_existing_results()
+    print(f"Loaded {len(results)} existing results")
     
-    print("Base Llama...")
-    base = load_model(use_dpo=False)
-    for src in tqdm(sources):
-        results.append({"source": src, "model": "base_llama", "output": generate_llama(base, tokenizer, src)})
-    del base; torch.cuda.empty_cache()
+    # Base Llama
+    if not already_done(results, "base_llama"):
+        print("\n--- Base Llama ---")
+        base = load_model(use_dpo=False)
+        for src in tqdm(sources):
+            results.append({"source": src, "model": "base_llama", "output": generate_llama(base, tokenizer, src)})
+        save_results(results)
+        print(f"Saved after base Llama: {len(results)} total")
+        del base
+        torch.cuda.empty_cache()
+    else:
+        print("Skipping base Llama (already done)")
     
-    print("DPO Llama...")
-    dpo = load_model(use_dpo=True)
-    for src in tqdm(sources):
-        results.append({"source": src, "model": "dpo_llama", "output": generate_llama(dpo, tokenizer, src)})
-    del dpo; torch.cuda.empty_cache()
+    # DPO Llama
+    if not already_done(results, "dpo_llama"):
+        print("\n--- DPO Llama ---")
+        dpo = load_model(use_dpo=True)
+        for src in tqdm(sources):
+            results.append({"source": src, "model": "dpo_llama", "output": generate_llama(dpo, tokenizer, src)})
+        save_results(results)
+        print(f"Saved after DPO Llama: {len(results)} total")
+        del dpo
+        torch.cuda.empty_cache()
+    else:
+        print("Skipping DPO Llama (already done)")
     
-    print("GPT-4o...")
-    client = OpenAI()
-    for src in tqdm(sources):
-        results.append({"source": src, "model": "gpt4o", "output": generate_gpt4(client, src)})
+    # GPT-4o
+    if not already_done(results, "gpt4o"):
+        print("\n--- GPT-4o ---")
+        client = OpenAI()
+        for src in tqdm(sources):
+            try:
+                output = generate_gpt4(client, src)
+                results.append({"source": src, "model": "gpt4o", "output": output})
+            except Exception as e:
+                print(f"Error: {e}")
+        save_results(results)
+        print(f"Saved after GPT-4o: {len(results)} total")
+    else:
+        print("Skipping GPT-4o (already done)")
     
-    with open("results/generations.json", "w") as f:
-        json.dump(results, f, indent=2)
+    print(f"\nFinal total: {len(results)} generations")
 
 if __name__ == "__main__":
     main()
