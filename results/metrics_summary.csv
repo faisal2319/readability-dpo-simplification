@@ -1,0 +1,4 @@
+model,fkgl,sari,bertscore_f1
+base_llama,10.122,41.638,0.875
+dpo_llama,5.434,31.328,0.833
+gpt4o,7.977,44.086,0.958
